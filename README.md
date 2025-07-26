@@ -20,4 +20,8 @@ Estudiante de Ingeniería Civil Informática (4° año) en Chile. Apasionada por
 * Desarrollo backend y frontend
 * Herramientas como Docker y GitHub
 * Mejores prácticas de programación
-* Trabajo colaborativo en proyectos con control de versiones
+
+🧠 Habilidades técnicas:
+* Lenguajes: Python, Java, TypeScript
+* Frameworks: Angular, Django
+* Herramientas: GitHub, Docker, Microsoft 365
