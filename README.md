@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Estudiante de Ingeniería Civil Informática (4° año) en Chile. Apasionada por la tecnología, el aprendizaje continuo y la resolución de problemas a través del desarrollo de software. Me gusta trabajar en equipo, mantener la organización en mis tareas y aportar siempre con una actitud responsable y respetuosa.
+
+💼 Actualmente estoy aprendiendo sobre:
+Desarrollo backend y frontend
+
+Herramientas como Docker y GitHub
+
+Mejores prácticas de programación
+
+Trabajo colaborativo en proyectos con control de versiones
