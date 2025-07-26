@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola soy Renata 👋
 
 <!--
 **Renxwng/Renxwng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Estudiante de Ingeniería Civil Informática (4° año) en Chile. Apasionada por la tecnología, el aprendizaje continuo y la resolución de problemas a través del desarrollo de software. Me gusta trabajar en equipo, mantener la organización en mis tareas y aportar siempre con una actitud responsable y respetuosa.
