@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Estudiante de Ingeniería Civil Informática (4° año) en Chile. Apasionada por la tecnología, el aprendizaje continuo y la resolución de problemas a través del desarrollo de software. Me gusta trabajar en equipo, mantener la organización en mis tareas y aportar siempre con una actitud responsable y respetuosa.
+
 
 💼 Actualmente estoy aprendiendo sobre:
 * Desarrollo backend y frontend
@@ -26,3 +26,4 @@ Estudiante de Ingeniería Civil Informática (4° año) en Chile. Apasionada por
 * Frameworks: Angular, Django
 * Herramientas: GitHub, Docker, Microsoft 365
 -->
+Estudiante de Ingeniería Civil Informática (4° año) en Chile. Apasionada por la tecnología, el aprendizaje continuo y la resolución de problemas a través del desarrollo de software. Me gusta trabajar en equipo, mantener la organización en mis tareas y aportar siempre con una actitud responsable y respetuosa.
